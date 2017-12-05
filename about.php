@@ -41,7 +41,7 @@
                                 </div>
                                 <div class="col-md-6 col-sm-6">
                                     <figure>
-                                        <img src="extra-images/about-img2.jpg" alt="">
+                                        <img src="images/calicut-towr.JPG" alt="">
                                         <!-- <img class="p-middel" src="extra-images/about-img3.jpg" alt=""> -->
                                     </figure>
                                 </div>

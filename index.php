@@ -169,7 +169,7 @@
             <!--Banner Wrap End-->
             <div class="main-contant">
                 <!--Offers Section Start-->
-                <section>
+                <section style="background-color:#efeeee">
                   <div class="container">
                     <div class="headind-1 text-center">
                         <h3 class="title">Alhind Calicut tower</h3>
@@ -188,7 +188,7 @@ Not to be outdone, the hotel also has a Gym and Health Club, outfitting the work
 
                   </div>
                 </section>
-                <section>
+                <section >
                     <div class="container">
                         <!--Heading 1 Start-->
                         <div class="headind-1 text-center">
@@ -483,7 +483,7 @@ Not to be outdone, the hotel also has a Gym and Health Club, outfitting the work
                 </section>
                 <!--Services Tabs Section End-->
                 <!--Staff Section Start-->
-                <section>
+                <section class="bg">
                     <div class="container">
                         <!--Heading 1 Start-->
                         <div class="headind-1 text-center">
